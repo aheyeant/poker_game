@@ -1,0 +1,26 @@
+for delete
+
+
+reference jako parametr funkce (TableCards.h, 22)
+reference jako navratova hodnota (CardStock.h; 33)
+pretezovani funkce (Card.h; 22)
+new a delete
+bezparametricky konstructor, copy, operator=, destructor
+dedicnost
+virtual funkce
+abstract classes
+prostory jmen
+streamy, soubory
+sablony funkce a trid
+stl contejnery, iteratory, algoritmy
+exceptions (CardStock.h; 33)
+
+
+
+
+
+delete engine which was created EngineFactory
+
+
+
+count of lines wc -l ./* ./cards/* ./cards/CardCombinationsEngine/* ./player/* ./player/playerModels/*

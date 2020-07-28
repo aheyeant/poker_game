@@ -1,0 +1,29 @@
+---- bestChanceModel ----
+bet -> All-in
+    -> Bet
+    -> Raise
+    -> Fold
+
+check -> Check
+
+call -> Call
+     -> Fold
+
+all-in -> All-in
+       -> Fold
+
+---- allChanceModel ----
+bet -> All-in
+    -> Bet
+    -> Raise
+    -> Fold
+
+check -> Check
+
+call -> Call
+     -> Fold
+
+all-in -> All-in
+       -> Fold
+
+---- manualMadel ----
